@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1510435148 source:f:\c++\projects\bkash project\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+
+1510435148 source:f:\projects\bkash project\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+
+1510644480 source:f:\shuvo\projects\bkash project\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+
